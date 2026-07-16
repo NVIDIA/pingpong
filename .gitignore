@@ -1,0 +1,10 @@
+# Build outputs
+/pingpong
+*.o
+*.d
+
+# Default benchmark outputs
+/data*.csv
+
+# Editor swap files
+*.swp
